@@ -1,6 +1,6 @@
 import React from 'react';
 import { CountDisplay } from './components/CountDisplay';
-import { CountProvider } from './components/CountProvider';
+import { CountProvider } from './components/CountProvider'; // this is a wrapper
 
 function App() {
     return(
